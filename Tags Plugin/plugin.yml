@@ -1,0 +1,19 @@
+version: 1.0
+name: Tags
+main: com.tags.plugin.main
+description: Tags okay
+api-version: 1.13
+commands: 
+  tags:
+  exchange:
+  travel:
+  bal:
+  market:
+  spawn:
+  warn:
+  give:
+  pay:
+  playerLook:
+  clan:
+  createspawn:
+  worldtravel:
