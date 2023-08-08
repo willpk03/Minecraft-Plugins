@@ -1,0 +1,28 @@
+version: 1.0
+name: RoadTripMc
+main: com.roadtripmc.main.main
+description: The main plugin for RoadTripMc
+commands: 
+  points:
+  tags:
+  team:
+  tpa:
+  tpaccept:
+  spawn:
+  rtp:
+  worldtravel:
+  roadtripmc:
+  discord:
+  rank:
+  staffchat:
+  sc:
+  nickname:
+  whois:
+  tell:
+  socialspy:
+  cgive:
+  sethome:
+  home:
+  token:
+  rules:
+  ce:
