@@ -1,0 +1,6 @@
+version: 1.0
+name: RoadTripMc
+main: com.MinecraftJam.Will.main
+description: The main plugin for RoadTripMc
+commands: 
+api-version: 1.13
